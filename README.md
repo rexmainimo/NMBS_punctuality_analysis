@@ -29,10 +29,10 @@ End-to-end analysis in Python (Pandas) on real 2024–2025 NMBS open data. I cal
 ![10 station by average departure delay)](screenshots/most_stations_delay.png)
 ![Stations train time gain and lost bar chat distribution (red/green)](screenshots/train_time_gain_&_lost.png)
 
-**Business Impact & Recommendations**
-- The 3.65 pp gap suggests official metrics may understate real passenger experience.
-- Focus operational improvements on Merelbeke-Centraal, Turnhout and Antwerpen-Noord-Bundel A1 to reduce average delay.
-- Could feed directly into NMBS performance dashboards or scheduling optimisation.
+## Business Impact & Recommendations
+- Revealed a consistent **3.65 percentage point gap** between NMBS official punctuality and real passenger    experience.
+- Pinpointed high-impact stations (e.g. Merelbeke-Centraal, Turnhout, Antwerpen-Noord-Bundel A1) where targeted operational improvements could reduce average delays.
+- Ready-to-use insights for NMBS performance dashboards, scheduling optimisation, or customer communication.
 
 **How to run**  
 1. `pip install -r requirements.txt`  
