@@ -36,4 +36,5 @@ End-to-end analysis in Python (Pandas) on real 2024–2025 NMBS open data. I cal
 
 **How to run**  
 1. `pip install -r requirements.txt`  
-2. Open `train_delays.ipynb`
+2. Open `train_punctuality.ipynb`
+3. open `train_time_gain&_lost.ipynb`
